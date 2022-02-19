@@ -12,7 +12,7 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
+email: "" 
 highlight_name: true
 interests:
 - Artificial Intelligence
