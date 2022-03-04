@@ -45,5 +45,5 @@ superuser: true
 title: Aedan Altman-Mills
 ---
 
-Aedan Altman-mills is a high school sophomore interested in math, engineering, Magic the Gathering, and cooking. 
+Aedan Altman-Mills is a high school sophomore interested in math, engineering, Magic the Gathering, and cooking. 
 
